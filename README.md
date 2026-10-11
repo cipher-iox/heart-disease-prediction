@@ -48,8 +48,8 @@ Heart disease/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd "Heart disease"
+git clone https://github.com/cipher-iox/heart-disease-prediction.git
+
 ```
 
 ### 2. Create and Activate a Virtual Environment
