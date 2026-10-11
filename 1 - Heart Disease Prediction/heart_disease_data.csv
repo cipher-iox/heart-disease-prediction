@@ -1,0 +1,298 @@
+Gender,ChestPain,FastingBS,RestECG,HeartDisease
+Male,Typical Angina,True,LVH,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Non-anginal,False,Normal,No
+Female,Atypical Angina,False,LVH,No
+Male,Atypical Angina,False,Normal,No
+Female,Asymptomatic,False,LVH,Yes
+Female,Asymptomatic,False,Normal,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,True,LVH,Yes
+Male,Asymptomatic,False,Normal,No
+Female,Atypical Angina,False,LVH,No
+Male,Non-anginal,True,LVH,Yes
+Male,Atypical Angina,False,Normal,No
+Male,Non-anginal,True,Normal,No
+Male,Non-anginal,False,Normal,No
+Male,Atypical Angina,False,Normal,Yes
+Male,Asymptomatic,False,Normal,No
+Female,Non-anginal,False,Normal,No
+Male,Atypical Angina,False,Normal,No
+Male,Typical Angina,False,LVH,No
+Female,Typical Angina,True,LVH,No
+Male,Atypical Angina,False,LVH,Yes
+Male,Non-anginal,False,LVH,Yes
+Male,Asymptomatic,False,LVH,Yes
+Female,Non-anginal,False,Normal,No
+Female,Non-anginal,False,Normal,No
+Female,Typical Angina,False,Normal,No
+Male,Asymptomatic,False,Normal,No
+Male,Asymptomatic,False,LVH,Yes
+Female,Typical Angina,False,Normal,No
+Male,Asymptomatic,True,Normal,Yes
+Male,Non-anginal,False,Normal,Yes
+Male,Asymptomatic,False,Normal,No
+Male,Non-anginal,False,Normal,No
+Male,Asymptomatic,False,Normal,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,Normal,Yes
+Male,Non-anginal,True,Normal,No
+Female,Asymptomatic,False,LVH,Yes
+Male,Typical Angina,False,Normal,No
+Female,Atypical Angina,False,Normal,No
+Male,Non-anginal,True,Normal,No
+Female,Asymptomatic,False,LVH,Yes
+Male,Non-anginal,False,LVH,Yes
+Male,Non-anginal,False,Normal,No
+Male,Asymptomatic,False,LVH,Yes
+Female,Non-anginal,True,LVH,No
+Male,Non-anginal,True,LVH,No
+Female,Atypical Angina,False,Normal,No
+Male,Asymptomatic,False,Normal,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Atypical Angina,False,LVH,No
+Male,Asymptomatic,False,Normal,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Non-anginal,False,Normal,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Non-anginal,False,LVH,No
+Male,Typical Angina,False,LVH,No
+Female,Asymptomatic,False,Normal,Yes
+Female,Non-anginal,False,LVH,No
+Male,Asymptomatic,False,LVH,Yes
+Female,Non-anginal,True,Normal,No
+Male,Asymptomatic,False,Normal,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Non-anginal,False,LVH,Yes
+Male,Non-anginal,False,LVH,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Non-anginal,False,Normal,Yes
+Female,Non-anginal,False,Normal,No
+Male,Asymptomatic,True,Normal,Yes
+Male,Asymptomatic,False,Normal,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,LVH,Yes
+Female,Non-anginal,False,LVH,No
+Male,Asymptomatic,False,LVH,Yes
+Female,Non-anginal,False,LVH,No
+Male,Atypical Angina,False,LVH,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,LVH,No
+Female,Asymptomatic,False,LVH,No
+Male,Non-anginal,False,LVH,No
+Male,Non-anginal,True,LVH,Yes
+Male,Atypical Angina,False,Normal,No
+Male,Non-anginal,False,LVH,No
+Male,Non-anginal,False,LVH,No
+Female,Asymptomatic,False,LVH,No
+Female,Non-anginal,False,LVH,No
+Male,Asymptomatic,False,LVH,No
+Female,Asymptomatic,False,LVH,Yes
+Male,Non-anginal,False,Normal,No
+Female,Non-anginal,False,Normal,No
+Female,Non-anginal,False,LVH,No
+Male,Asymptomatic,False,Normal,Yes
+Male,Asymptomatic,False,LVH,Yes
+Female,Asymptomatic,False,LVH,Yes
+Male,Atypical Angina,False,Normal,No
+Male,Asymptomatic,False,LVH,No
+Male,Asymptomatic,False,LVH,No
+Male,Typical Angina,False,LVH,No
+Female,Asymptomatic,False,LVH,No
+Female,Non-anginal,True,LVH,No
+Male,Non-anginal,False,Normal,Yes
+Male,Atypical Angina,False,Normal,No
+Male,Asymptomatic,False,Normal,Yes
+Male,Non-anginal,False,LVH,Yes
+Male,Asymptomatic,False,Normal,Yes
+Male,Asymptomatic,False,Normal,Yes
+Female,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,True,LVH,Yes
+Male,Typical Angina,False,LVH,No
+Female,Asymptomatic,True,LVH,Yes
+Female,Non-anginal,False,Normal,Yes
+Male,Atypical Angina,False,Normal,No
+Male,Non-anginal,True,LVH,No
+Female,Asymptomatic,False,Normal,No
+Male,Asymptomatic,True,LVH,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,True,LVH,Yes
+Female,Asymptomatic,False,LVH,Yes
+Male,Non-anginal,False,Normal,No
+Male,Asymptomatic,False,Normal,Yes
+Male,Typical Angina,True,LVH,Yes
+Female,Atypical Angina,False,LVH,No
+Female,Asymptomatic,True,LVH,Yes
+Male,Asymptomatic,False,Normal,Yes
+Male,Atypical Angina,False,Normal,No
+Female,Asymptomatic,False,Normal,No
+Male,Non-anginal,False,LVH,No
+Male,Non-anginal,False,Normal,No
+Male,Atypical Angina,False,LVH,No
+Male,Asymptomatic,False,LVH,No
+Female,Non-anginal,False,Normal,No
+Female,Atypical Angina,False,LVH,No
+Male,Asymptomatic,False,Normal,Yes
+Male,Atypical Angina,False,LVH,Yes
+Male,Asymptomatic,False,Normal,Yes
+Male,Non-anginal,True,LVH,No
+Male,Atypical Angina,False,Normal,No
+Male,Typical Angina,False,LVH,Yes
+Male,Atypical Angina,True,Normal,No
+Male,Non-anginal,False,Normal,Yes
+Male,Non-anginal,False,LVH,No
+Male,Non-anginal,False,Normal,Yes
+Male,Asymptomatic,True,LVH,Yes
+Male,Non-anginal,False,Normal,No
+Male,Atypical Angina,False,LVH,No
+Female,Non-anginal,False,Normal,No
+Male,Typical Angina,True,Normal,No
+Female,Asymptomatic,False,LVH,No
+Female,Non-anginal,False,LVH,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,Normal,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Non-anginal,False,Normal,No
+Male,Atypical Angina,True,Normal,No
+Male,Asymptomatic,False,LVH,Yes
+Female,Non-anginal,False,Normal,No
+Female,Asymptomatic,False,LVH,No
+Male,Non-anginal,True,Normal,No
+Male,Asymptomatic,False,Normal,No
+Female,Atypical Angina,True,LVH,No
+Male,Asymptomatic,False,LVH,Yes
+Female,Atypical Angina,False,Normal,No
+Male,Non-anginal,False,Normal,Yes
+Male,Asymptomatic,False,LVH,No
+Female,Asymptomatic,False,Normal,Yes
+Female,Asymptomatic,False,LVH,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,Normal,Yes
+Male,Asymptomatic,True,Normal,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Non-anginal,False,Normal,No
+Male,Non-anginal,True,LVH,No
+Male,Asymptomatic,False,LVH,Yes
+Female,Asymptomatic,False,LVH,Yes
+Male,Typical Angina,False,LVH,No
+Male,Typical Angina,False,LVH,No
+Female,Asymptomatic,False,LVH,Yes
+Female,Atypical Angina,False,Normal,No
+Male,Non-anginal,True,Normal,No
+Male,Atypical Angina,False,Normal,Yes
+Male,Atypical Angina,False,LVH,Yes
+Male,Non-anginal,False,LVH,Yes
+Male,Non-anginal,False,Normal,No
+Male,Asymptomatic,False,Normal,Yes
+Female,Asymptomatic,True,Normal,Yes
+Female,Non-anginal,False,LVH,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Typical Angina,True,LVH,No
+Female,Asymptomatic,False,LVH,No
+Female,Atypical Angina,False,Normal,No
+Male,Typical Angina,False,LVH,Yes
+Female,Asymptomatic,False,LVH,No
+Female,Asymptomatic,False,Normal,No
+Male,Non-anginal,True,Normal,No
+Female,Non-anginal,False,Normal,No
+Male,Asymptomatic,False,Normal,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Atypical Angina,False,Normal,No
+Female,Asymptomatic,False,Normal,Yes
+Female,Non-anginal,False,Normal,No
+Male,Typical Angina,False,Normal,Yes
+Male,Non-anginal,False,LVH,No
+Female,Asymptomatic,True,Normal,Yes
+Male,Asymptomatic,False,Normal,Yes
+Male,Typical Angina,False,LVH,No
+Female,Atypical Angina,False,Normal,No
+Female,Asymptomatic,False,LVH,No
+Female,Asymptomatic,False,Normal,No
+Male,Asymptomatic,False,LVH,No
+Female,Non-anginal,False,LVH,No
+Female,Non-anginal,False,LVH,No
+Female,Non-anginal,False,Normal,No
+Male,Asymptomatic,False,Normal,Yes
+Female,Asymptomatic,False,Normal,Yes
+Female,Atypical Angina,False,Normal,No
+Male,Asymptomatic,False,Normal,No
+Female,Non-anginal,False,Normal,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,LVH,Yes
+Female,Non-anginal,False,LVH,No
+Female,Asymptomatic,False,ST-T wave,Yes
+Male,Non-anginal,False,LVH,Yes
+Female,Atypical Angina,False,LVH,No
+Female,Non-anginal,False,Normal,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,True,LVH,Yes
+Male,Asymptomatic,False,LVH,Yes
+Female,Atypical Angina,False,Normal,No
+Male,Atypical Angina,False,Normal,No
+Male,Atypical Angina,False,Normal,No
+Female,Atypical Angina,False,Normal,No
+Female,Asymptomatic,False,Normal,No
+Male,Typical Angina,False,Normal,Yes
+Female,Non-anginal,True,Normal,No
+Male,Asymptomatic,False,Normal,Yes
+Male,Asymptomatic,False,Normal,Yes
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,Normal,Yes
+Male,Atypical Angina,True,LVH,No
+Male,Asymptomatic,False,Normal,No
+Male,Asymptomatic,False,Normal,Yes
+Male,Asymptomatic,False,Normal,No
+Female,Non-anginal,False,LVH,No
+Male,Asymptomatic,False,Normal,No
+Female,Non-anginal,False,Normal,No
+Female,Asymptomatic,False,Normal,No
+Female,Non-anginal,False,ST-T wave,No
+Male,Atypical Angina,False,LVH,No
+Male,Atypical Angina,False,Normal,Yes
+Female,Non-anginal,False,Normal,No
+Female,Atypical Angina,True,LVH,Yes
+Female,Typical Angina,False,Normal,No
+Male,Non-anginal,False,Normal,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,Normal,Yes
+Male,Non-anginal,True,Normal,Yes
+Male,Asymptomatic,False,Normal,Yes
+Male,Non-anginal,False,Normal,No
+Male,Asymptomatic,False,LVH,Yes
+Male,Asymptomatic,False,LVH,No
+Male,Asymptomatic,False,Normal,Yes
+Female,Asymptomatic,False,Normal,No
+Male,Typical Angina,False,Normal,Yes
+Male,Typical Angina,False,LVH,No
+Female,Non-anginal,False,LVH,No
+Female,Non-anginal,False,Normal,No
+Male,Atypical Angina,False,LVH,Yes
+Female,Asymptomatic,False,Normal,No
+Male,Asymptomatic,False,Normal,Yes
+Male,Non-anginal,False,Normal,No
+Female,Asymptomatic,False,ST-T wave,Yes
+Male,Atypical Angina,False,Normal,No
+Male,Asymptomatic,False,Normal,Yes
+Male,Asymptomatic,False,ST-T wave,Yes
+Female,Asymptomatic,True,LVH,Yes
+Male,Atypical Angina,False,LVH,No
+Male,Atypical Angina,False,Normal,No
+Male,Non-anginal,False,LVH,Yes
+Female,Atypical Angina,False,Normal,No
+Male,Asymptomatic,False,Normal,Yes
+Male,Asymptomatic,False,LVH,Yes
+Female,Asymptomatic,False,Normal,Yes
+Male,Atypical Angina,False,Normal,No
+Male,Asymptomatic,True,LVH,Yes
+Female,Asymptomatic,False,Normal,Yes
+Male,Typical Angina,False,Normal,Yes
+Male,Asymptomatic,True,Normal,Yes
+Male,Asymptomatic,False,Normal,Yes
+Female,Atypical Angina,False,LVH,Yes
