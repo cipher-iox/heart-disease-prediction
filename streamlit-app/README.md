@@ -8,7 +8,7 @@ A small web app for students to try the trained Heart Disease model in a browser
 2. Click **"Create app"** (or **"New app"**).
 3. Choose **"Deploy a public app from GitHub"**.
 4. Fill in:
-   - **Repository:** `haqnawaz99/ml-teaching-notebooks`
+   - **Repository:** `cipher-iox/heart-disease-prediction`
    - **Branch:** `main`
    - **Main file path:** `streamlit-app/app.py`
 5. Click **Deploy**. The first deploy takes a minute or two while it installs `requirements.txt`.
